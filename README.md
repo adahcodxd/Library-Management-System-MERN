@@ -10,18 +10,16 @@ Show some ❤️ and 🌟 the repo to support the project
 ## Index ✏️
 
 - [Library Management System 📚](#library-management-system-)
-  - [Video Demo](#video-demo)
+
 - [Index ✏️](#index-️)
-- [Features Of LCMS 🚀](#features-of-lcms-)
+
 - [Setup 🔥](#setup-)
   - [Frontend Setup 🍧](#frontend-setup-)
   - [Backend Setup 🍿](#backend-setup-)
 - [Technologies 🛠](#technologies-)
 - [Screenshots](#screenshots)
 - [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
-- [License 🏆](#license-)
+
 
 ## Features Of LCMS 🚀
 
@@ -86,7 +84,12 @@ Show some ❤️ and 🌟 the repo to support the project
 - [NodeJs Documentation](https://nodejs.org/en/docs/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 
-## Author 📝
+## Author
+
+- **Name**: Amritanshu Jha
+- **GitHub**: [https://github.com/adahcodxd](https://github.com/adahcodxd)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [https://linkedin.com/in/amritanshu-jha](https://linkedin.com/in/amritanshu-jha)
 
 
 
